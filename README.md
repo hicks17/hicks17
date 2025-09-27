@@ -4,6 +4,7 @@
  Mazatlán, Sin
 - 🌱 I’m currently studying ... Software Engineering in Universidad Autónoma de Occidente
 - 📫 How to reach me: jc.canedo16@gmail.com
+- My portfolio: https://jccanedosilva.github.io/
 
 #My projects:
 
